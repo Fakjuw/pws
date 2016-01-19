@@ -45,7 +45,7 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 Ons profielwerkstuk gaat over ‘The art of exploitation’, de kunst van het blootleggen. We willen weten wat de reactie is van mensen als ze een cursus hacken krijgen. De verkregen informatie zullen wij met elkaar vergelijken en uiteindelijk goede conclusies trekken.
 
 *Onderzoeksvraag:*<br />
-  Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
+    Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
 
 *Deelvragen:*<br />
   Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
