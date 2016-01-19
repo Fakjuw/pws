@@ -44,22 +44,22 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 ##Plan van aanpak
 Ons profielwerkstuk gaat over ‘The art of exploitation’, de kunst van het blootleggen. We willen weten wat de reactie is van mensen als ze een cursus hacken krijgen. De verkregen informatie zullen wij met elkaar vergelijken en uiteindelijk goede conclusies trekken.
 
-*Onderzoeksvraag:*
+*Onderzoeksvraag:*<br />
 Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
 
-*Deelvragen:*
+*Deelvragen:*<br />
 Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
 Wordt het onderwerp hacken door de maatschappij in een negatief daglicht gezien?
 Heeft de gemiddelde leerling enige ervaring met hacken?
 Hoe lang zal, als het er is, het enthousiasme en de interesse van de leerlingen aanhouden tijdens de les?
 
-Hypotheses:
+##Hypotheses:
 Wij denken dat de meeste mensen wel willen leren te hacken, voornamelijk omdat het interessant klínkt. Als wij ze echter zouden vragen wat zij denken dat hacken inhoudt, zullen zij waarschijnlijk meestal een verkeerd antwoord geven. Het standaard idee van een hacker is:
-“In het bijzonder wordt het woord hacker gebruikt in volgende betekenissen:
+>	“In het bijzonder wordt het woord hacker gebruikt in volgende betekenissen:
 Iemand die een programmeertaal of -omgeving zo goed kent dat hij/zij zonder zichtbare moeite een programma kan schrijven.
 Iemand die onconventionele maar adequate oplossingen bedenkt tegen lekken, fouten en problemen van andere aard met behulp van beschikbare middelen.
 Iemand die tracht om via illegale wegen een computersysteem binnen te dringen teneinde een beveiligingsprobleem te kunnen aantonen en indien mogelijk te verhelpen.
-In deze laatste betekenis hebben hackers vaak een negatieve bijklank. Sommige hackers houden zich niet aan de hackersethiek, hebben geen respect voor andere mensen en hacken met de intentie informatie bloot te leggen. Daarmee beïnvloeden ze de publieke opinie om aanhangers te winnen voor bepaalde opvattingen of standpunten.”
+In deze laatste betekenis hebben hackers vaak een negatieve bijklank. Sommige hackers houden zich niet aan de	hackersethiek, hebben geen respect voor andere mensen en hacken met de intentie informatie bloot te leggen. Daarmee	beïnvloeden ze de publieke opinie om aanhangers te winnen voor bepaalde opvattingen of standpunten.”
 
 Waarschijnlijk vinden veel mensen hacken als onderwerp wel interessant, maar zien mensen over het algemeen hacken als een negatief iets. Iets dat illegaal en gevaarlijk is of kan zijn.
 De meeste leerlingen zullen waarschijnlijk geen of zeer weinig ervaring met hacken hebben. Het is niet iets wat je in korte tijd en op jonge leeftijd zomaar ergens kunt leren en begrijpen. Het vergt namelijk veel ervaring en kennis die je over de jaren opdoet.
