@@ -7,7 +7,7 @@ Begeleider: Eduard van Dam
 
 ![](img/nmap-scan.gif)
 
-Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op beveiligings gaten.
+-- *Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op beveiligings gaten.*
 
 
 
