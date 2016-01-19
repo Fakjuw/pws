@@ -1,7 +1,8 @@
 # PWS
-  - m.wong
-  - m.ettejani
-  - m.curcic
+
+    m.wong
+    m.ettejani
+    m.curcic
  
 ## MarkDown Syntax
   - https://daringfireball.net/projects/markdown/syntax
