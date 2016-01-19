@@ -41,19 +41,19 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 
 
 
-##Plan van aanpak
+## Plan van aanpak
 Ons profielwerkstuk gaat over ‘The art of exploitation’, de kunst van het blootleggen. We willen weten wat de reactie is van mensen als ze een cursus hacken krijgen. De verkregen informatie zullen wij met elkaar vergelijken en uiteindelijk goede conclusies trekken.
 
 *Onderzoeksvraag:*<br />
-    Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
+ Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
 
 *Deelvragen:*<br />
-  Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
+ Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
 Wordt het onderwerp hacken door de maatschappij in een negatief daglicht gezien?
 Heeft de gemiddelde leerling enige ervaring met hacken?
 Hoe lang zal, als het er is, het enthousiasme en de interesse van de leerlingen aanhouden tijdens de les?
 
-##  Hypotheses:
+## Hypotheses:
 Wij denken dat de meeste mensen wel willen leren te hacken, voornamelijk omdat het interessant klínkt. Als wij ze echter zouden vragen wat zij denken dat hacken inhoudt, zullen zij waarschijnlijk meestal een verkeerd antwoord geven. Het standaard idee van een hacker is:
 > “In het bijzonder wordt het woord hacker gebruikt in volgende betekenissen:
 Iemand die een programmeertaal of -omgeving zo goed kent dat hij/zij zonder zichtbare moeite een programma kan schrijven.
@@ -66,7 +66,7 @@ De meeste leerlingen zullen waarschijnlijk geen of zeer weinig ervaring met hack
 Het enthousiasme en de interesse van de leerlingen zal waarschijnlijk afnemen tijdens de les, wanneer ze merken dat het erg lastig is om de trucs van en kennis over het hacken onder de knie te krijgen.
 
 
-##  Inleiding
+## Inleiding
 Later wil je een leuk beroep uitoefenen, en je weet in ieder geval dat je computer security wilt gaan studeren en dat je de uitdaging aan wil gaan in de wereld van hackers. Na je opleiding wil je je verder gaan specialiseren. Het hacken zegt je wel wat, maar wat is het nou precies? Welke wegen moet je afleggen om een hacker te worden? Allerlei vragen die opkomen, waarop je graag duidelijke antwoorden wilt krijgen.
 
 Hacker worden is wel leuk, maar niet iedereen is er voor geschikt. Als je dit wilt doen, moet je bepaalde dingen goed kunnen. Hacker zijn vereist veel geduld en motivatie, maar vooral veel interesse. Door ons profielwerkstuk krijg je een beeld over wat ‘cybersecurity’ inhoudt.
@@ -77,17 +77,17 @@ Hacker worden is wel leuk, maar niet iedereen is er voor geschikt. Als je dit wi
 
 
 
-Theoretisch kader:
+## Theoretisch kader:
 De ms08-067_netapi exploit maakt gebruik van een gat in de beveiliging van Window versies 2000 tot en met de Windows versie 2003 SP2. Het gaat hierbij om een programmeerfout in de “NetAPI32.dll” en “WNetAPI32.dll” bestanden die deze systemen gebruiken. Je krijgt, na het uitvoeren van de exploit, op afstand, systeem rechten op de machine waarop je de exploit hebt uitgevoerd.
 
 Dit gat is te beveiligen door alle nieuwste updates van windows te installeren en door een anti-virus programma te installeren.
 
 SQL-injection is het uitbuiten van onverantwoordde syntaxen in sql query’s. Een voorbeeld hiervan zou een query zijn die niet op validiteit wordt gecontroleerd. In zo een query kan een gebruiker invoeren wat hij wil. Je krijgt dan de mogelijkheid om het volgende met een database te doen:
-Gegevens uit een database opvragen
-Gegevens wissen
-Gegevens aanpassen
-Gebruikers toevoegen
-Tabellen toevoegen en verwijderen
+* Gegevens uit een database opvragen
+* Gegevens wissen
+* Gegevens aanpassen
+* Gebruikers toevoegen
+* Tabellen toevoegen en verwijderen
 
 SQL-injection is meestal tegen te gaan door middel van “prepared statements” en “input validation”. Prepared statements zijn voorgemaakte sjablonen, waarin variabelen worden gebruikt om veranderende elementen aan te geven. Een prepared statement kan efficient uitgevoerd worden, omdat de invoer dan aan bepaalde eisen moet voldoen, kan het programma zich daar dan al op ‘voorbereiden’. Bovendien erg veilig is omdat de programmeur aangeeft welke variabele welke soort is: integer(heel nummer), double(kommagetal), string(text) of BLOB (Binary Large Object). Een BLOB is overigens het gevaarlijkste om te gebruiken in het geval van SQL-injection. Dit omdat je alle mogelijke tekens en zelfs bestanden in deze ‘data type’ kunt opslaan. Op deze manier kan een hacker bijvoorbeeld code toevoegen aan het einde van een plaatje en deze uploaden naar de database op een pagina waar de web developer hier niet op is voorbereid. Dit terwijl de andere ‘data types’ specifieke doelen hebben en daardoor ook op hun functie gefilterd kunnen worden. Input validation is het process van nagaan of de tekst, die de gebruiker heeft ingevoerd, voldoet aan de ‘regels’ en eisen die de programmeur van tevoren opstelt.
 
@@ -96,14 +96,14 @@ Command injection is het toevoegen van een eigen commando aan een functie, die v
 XSS, ook wel bekend als “Cross Side Scripting”, wordt gebruikt om je eigen scripts, lokaal bij andere bezoekers van de webapplicatie, uit te voeren. Deze scripts kunnen van alles zijn (denk maar aan keyloggers of cookie stealers). Deze methode wordt vooral uitgevoerd door middel van commentaar. Als je als commentaar “<script>alert(‘Hacked’);</script>” invoert op een onbeveiligde webapplicatie, dan komt bij iedere bezoeker die de pagina bezoekt het berichtje “Hacked” naar voren.
 
 
-Wat is hacken nou eigenlijk en wat is de definitie van een hacker?
+## Wat is hacken nou eigenlijk en wat is de definitie van een hacker?
 In het algemeen is hacken het vinden van een toepassing van bijvoorbeeld een object, voor iets waar het eerst niet voor bedoeld was. Bijvoorbeeld een paperclip gebruiken als boekenlegger, of het plaatsen van een veertje in een deuropening om later te kunnen zien of iemand je kamer binnengekomen is, zijn technisch gezien hacks.
 Door de meeste mensen wordt de term “Hacken” ten onrechte aangezien voor bijvoorbeeld het illegaal binnendringen van een computersysteem, daaruit informatie te halen of codes in te voeren, en allerlei andere illegale activiteiten uit te voeren.
 
 Een hacker, als in bij het onderwerp “Computers”, is iemand die op een obscure manier een computer, applicatie, computernetwerk en dergelijke binnendringt, al dan niet door de beveiliging te omzeilen. Dit gebeurt niet altijd om daden te plegen zoals het verzamelen van gevoelige informatie, maar ook om aan te tonen dat een netwerk onvoldoende beveiligd is of als “sport”. Hierbij gaat een groepje hackers met elkaar wedijveren wie het snelste een bepaald systeem binnen kan komen.
 Een hacker kan op verschillende manieren omschreven worden. Bijvoorbeeld:
-Iemand die m.b.v. eventuele programma’s, apps en tools een systeem binnen kan komen en die dan de behendigheid heeft om allerlei informatie te lezen en te veranderen.
-Iemand die 
+* Iemand die m.b.v. eventuele programma’s, apps en tools een systeem binnen kan komen en die dan de behendigheid heeft om allerlei informatie te lezen en te veranderen.
+* Iemand die 
 Het eerste voorbeeld heeft verschillende groepen met verschillende hoeveelheden ervaring, die we voor nu even klasses gaan noemen. Hieronder een tabel met de namen en een omschrijving:
 
 Beginnende hackers
