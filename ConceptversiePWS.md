@@ -30,7 +30,7 @@ Begeleider: Eduard van Dam
 * [Planning](#planning)
 * [Ná de les](#na-de-les)
   *   [Wat is er gebeurd?](#wat-is-er-gebeurd)
-  *   [(On)Bereikte doelen](#)
+  *   [(On)Bereikte doelen](#onbereikte-doelen)
 * [Logboek](#logboek)
 * [Bronnen:](#bronnen)
   *   [Internet:](#internet)
