@@ -1,8 +1,8 @@
 #Hacking: The art of exploitation
-:atej Curcic:
-->Mike Wong<-
-->Mohamed Ettejani<-
-->Begeleider: Eduard van Dam<-
+Matej Curcic
+Mike Wong
+Mohamed Ettejani
+Begeleider: Eduard van Dam
 
 
 Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op beveiligings gaten.
