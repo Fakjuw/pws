@@ -108,49 +108,44 @@ Het eerste voorbeeld heeft verschillende groepen met verschillende hoeveelheden 
 
 
 Niveau van hacker | Wat het inhoudt
-| Beginnende hackers
-(Script kiddies) | “Script kiddies” worden door de meeste mensen gezien als amateurs of zelfs nephackers. Zij halen al hun codes van het internet af, en kopiëren en plakken ze regelrecht in de kladblokken en andere tekstverwerkers die ze gebruiken om hun codes in te voeren, waarna ze op het beste hopen en de code uitvoeren. |
+----------------- | ---------------
+| Beginnende hackers (Script kiddies) | “Script kiddies” worden door de meeste mensen gezien als amateurs of zelfs nephackers. Zij halen al hun codes van het internet af, en kopiëren en plakken ze regelrecht in de kladblokken en andere tekstverwerkers die ze gebruiken om hun codes in te voeren, waarna ze op het beste hopen en de code uitvoeren. |
 | Gemiddelde hackers | Dit zijn de hackers die wel degelijk iets kunnen. Zij gebruiken meestal voorgeschreven tools, die ze dan zodanig aanpassen dat ze er merendeels hun doel mee kunnen bereiken. Zij kunnen meestal programmeren en weten hoe netwerken, besturingssystemen, radiogolven etc. werken en in elkaar zitten. Ze kennen hun theorie die ze dan toepassen. |
-| Geavanceerde hackers
-(Code monkey’s) | Dit zijn de meest geavanceerde hackers. Deze klasse weet hoe computers, netwerken, programmeertalen etc. in elkaar zitten en hoe deze uit te buiten zijn. Zij schrijven meestal hun eigen tools, meestal voor prive gebruik. |
+| Geavanceerde hackers (Code monkey’s) | Dit zijn de meest geavanceerde hackers. Deze klasse weet hoe computers, netwerken, programmeertalen etc. in elkaar zitten en hoe deze uit te buiten zijn. Zij schrijven meestal hun eigen tools, meestal voor prive gebruik. |
 
-De moraliteit van hackers:
+## De moraliteit van hackers:
 De moraliteit van hackers is te verdelen in drie groepen (of hats):
 
-“White hat”
-Dit zijn de ethische, professionele hackers die je wel eens in bedrijven ziet werken. Zij worden meestal door bedrijven aangenomen om diens beveiliging te beoordelen. Na afloop van de “Hack sessie” dienen deze hackers een verslag in met alle informatie erin, die ze hebben kunnen vinden. Deze informatie houdt meestal o.a. in: 
-wat ze hebben gedaan
-welke gebieden van het systeem ze getest hebben
-welke fouten en gaten ze hebben gevonden
-hoe het bedrijf de gevonden problemen op kan lossen
-
-“Grey/Gray hat”
-Dit zijn hackers die niet altijd even ethisch zijn. Zij voeren meestal hacks uit om de juiste redenen, maar op de illegale en onjuiste manier. Een voorbeeld van Grey/Gray hats zijn hackers die hacken voor de burgers van de middenklasse of hackers die informatie vrijgeven op sites zoals wikileaks. Hun methodes zijn illegaal en ‘slecht’, maar hun bedoeling is meestal grotendeels goed.
-“Black hat”
-Dit zijn de hackers die iedereen voor zich ziet als ze aan hackers denken. De Black hats hacken om slechte redenen, op een illegale manier. Dit zijn de hackers die van banken stelen of de infrastructuur van een bedrijf digitaal slopen, omdat ze het kunnen.
+Naam | Wat het inhoudt
+---- | ---------------
+“White hat” | Dit zijn de ethische, professionele hackers die je wel eens in bedrijven ziet werken. Zij worden meestal door bedrijven aangenomen om diens beveiliging te beoordelen. Na afloop van de “Hack sessie” dienen deze hackers een verslag in met alle informatie erin, die ze hebben kunnen vinden. Deze informatie houdt meestal o.a. in: <ul><li>wat ze hebben gedaan</li><li>welke gebieden van het systeem ze getest hebben</li><li>welke fouten en gaten ze hebben gevonden</li><li>hoe het bedrijf de gevonden problemen op kan lossen</li></ul>
+“Grey/Gray hat” | Dit zijn hackers die niet altijd even ethisch zijn. Zij voeren meestal hacks uit om de juiste redenen, maar op de illegale en onjuiste manier. Een voorbeeld van Grey/Gray hats zijn hackers die hacken voor de burgers van de middenklasse of hackers die informatie vrijgeven op sites zoals wikileaks. Hun methodes zijn illegaal en ‘slecht’, maar hun bedoeling is meestal grotendeels goed.
+“Black hat” | Dit zijn de hackers die iedereen voor zich ziet als ze aan hackers denken. De Black hats hacken om slechte redenen, op een illegale manier. Dit zijn de hackers die van banken stelen of de infrastructuur van een bedrijf digitaal slopen, omdat ze het kunnen.
 
 
 
 
-
-Vóór de les
-Planning en ideeën voor de cursus
+## Vóór de les
+### Planning en ideeën voor de cursus
 
 We moesten een planning maken waarbij we regelmatig bij elkaar konden komen om allerlei dingen voor de cursus te bespreken, en waarin Matej ook de kans kreeg om Mike en Mohamed informatie over hacken te geven. We zagen al snel dat we alle drie de meeste dinsdagen konden, dus werd dat onze vaste dag. Ook werd er afgesproken om af en toe een zaterdag wat meer uurtjes bij elkaar te komen waarbij Mike en Mohamed weer wat meer over hacken leerden van Matej. We moesten ook een aantal keren met meneer Van Dam af zien te spreken, en een mailtje naar de leerlingen van het Cartesius Lyceum sturen waarin we ze uitnodigden voor onze cursus. De les was gepland op dinsdag 1 december. Er zou die dag een verkort rooster waar we rekening mee moesten houden. Het lesuur werd gepland op het zevende en “achtste” lesuur.
 Tijdens de keren dat we samen kwamen, bedachten we eerst dat we meerdere ideeën nodig zouden hebben voor de cursus. Uiteindelijk werden dat de onderwerpen “Het binnendringen en beveiligen van een Windows XP systeem” en “Het binnendringen en beveiligen van een webapplicatie”. We wilden twee uren achter elkaar les geven, om zo genoeg tijd te hebben om beide onderwerpen uitvoerig te kunnen behandelen.
 Verder wilden we de leerlingen nog aan het begin van de les, in het midden van de les en aan het einde van de les, een enquête laten invullen, om te zien wat hun mening over hacken in eerste instantie was en of deze zou veranderen tijdens onze les.
-Wat moesten wij zélf weten en kunnen:
+
+### Wat moesten wij zélf weten en kunnen:
 
 In ieder geval moest ieder van ons voor het begin van de les zélf weten wat we de leerlingen wilden leren. Hiervoor zou Matej Mike en Mohamed veel leren, en moesten de laatste twee ook zelf op zoek gaan naar informatie. De les zou volgens de planning gaan over het binnendringen van een webapplicatie en een Windows XP systeem. Hiervoor kende Matej verschillende manieren, die hij Mike en Mohamed dus zou leren.
-Doelen:
+
+## Doelen:
 Wat wilden wij de leerlingen leren: De basis van hacken. Dit houdt het uitbuiten van een webapplicatie en een Windows XP machine in. Hieruit volgt direct het leren beschermen tegen hackers.
 Wat wilden wij zelf leren: Weten wat de gemiddelde leerling van het Cartesius vindt van hacken, en wat zij denken dat hacken is. Verder is het ook goed voor Mike en Mohamed om van alles te leren over hacken. Matej heeft er baat bij Mike en Mohamed te leren over hacken, doordat hij er extra ervaring als leraar van krijgt.
-Ná de les
-Wat is er gebeurd?
+
+## Ná de les
+### Wat is er gebeurd?
 We hebben in de afgelopen weken een aantal keren met elkaar afgesproken. Een aantal keren konden we met zijn drieën bijeenkomen, maar helaas was Mohamed een aantal keren ziek. Verder waren Matej en Mike er een enkele keer niet. Met meneer Van Dam zijn wij helaas maar één keer met zijn allen samengekomen..
 Bij de keren dat Matej en Mike met meneer Van Dam waren samengekomen hebben ze wel een aantal dingen af kunnen spreken. Onder andere over het eerder genoemde onderwerp over de benaming van de cursus, maar ook over wat slim zou zijn en wat niet. Meneer Van Dam vulde ook nog de ideeën aan die wij zelf hadden bedacht. Eerst wilden wij bijvoorbeeld alleen mensen aannemen die zelf computers hadden, maar meneer Van Dam bracht ook op dat we de schoolleiding konden vragen of we de schoolcomputers mochten gebruiken voor de les. Hij heeft ook geholpen met het bedenken van hoe we de mail zouden moeten opstellen aan de leerlingen van het Cartesius Lyceum.
 
-(On)Bereikte doelen
+### (On)Bereikte doelen
 We hebben uiteindelijk de les gegeven, en het meeste van wat we de leerlingen wilden leren hebben we met ze kunnen behandelen. We begonnen met het uitleggen over hoe ze een webapplicatie konden binnendringen. De uitleg en de voorbereidingen van de les liepen helaas uit, waardoor we niet meer toe kwamen aan het uitleggen over het binnendringen van een Windows XP systeem.
 De enquêtes waren grotendeels ingevuld. Alleen de laatste enquêtes niet, want doordat de les uitliep konden we niet alles bespreken. Sommige leerlingen moesten weg, maar er bleven een paar die de enquêtes wel invulden. Na de les heeft Matej nog een mail gestuurd naar de leerlingen, waarin de overige informatie stond in de vorm van een korte uitleg en links naar websites die er informatie over verstrekken.
 
@@ -162,152 +157,33 @@ De enquêtes waren grotendeels ingevuld. Alleen de laatste enquêtes niet, want 
 
 
 
-Logboek
-Datum
-Activiteit
-Mike W (54,5)
-Matej (67.5)
-Mohamed E (37,5)
-22-09-2015
-Met elkaar in de kantine gezeten, besproken wat er gaat gebeuren en veel geleerd over commando’s in linux.
-4
-4
-4
-23-09-2015
-Matej zoekt in de tussentijd naar websites, digitale stof/media en andere bronnen die hij Mohamed en Mike kan sturen om over hacken te lezen en te leren.
+## Logboek
+Datum | Activiteit | Mike W (54,5) | Matej (67.5) | Mohamed E (37,5)
+----: | ---------- | :-----------: | :----------: | :-------------:
+22-09-2015 | Met elkaar in de kantine gezeten, besproken wat er gaat gebeuren en veel geleerd over commando’s in linux. | 4 | 4 | 4
+23-09-2015 | Matej zoekt in de tussentijd naar websites, digitale stof/media en andere bronnen die hij Mohamed en Mike kan sturen om over hacken te lezen en te leren. | - | 3 | -
+07-10-2015 | Met elkaar gezeten waarbij Matej Mike wat leerde over hacken. Mohamed moest nog wat voor informatica doen. | 2,5 | 2,5 | -
+27-10-2015 | Met elkaar gezeten achter de computer waarbij Matej Mike weer wat meer leerde over hacken. Mohamed was ziek. | 1,5 | 1,5 | -
+03-11-2015 | Deze keer waren we er alle drie, en Matej leerde Mike en Mohamed weer wat over hacken. | 3 | 3 | 3
+04-11-2015 | In de tussentijd zoeken Mohamed en Mike op het internet naar informatie over hacken, bijvoorbeeld over het onderwerp “SQL-injection”. | 3 | - | 3
+07-11-2015 | Met z’n drieën de halve dag bij elkaar gezeten in de bieb, waarbij er nagadacht werd over de PWS. | 6 | 6 | 6
+17-11-2015 | Gesprek met begeleider, Matej was ziek en Mohamed werd door de docent geroepen om iets voor Engels te doen. | 1 | - | -
+- | Ondertussen hebben Mohamed en Mike thuis wat gedaan. Mohamed deed wat met CMD toen hij ziek was, en Mike zocht allerlei informatie op over hacken. | 1.5 | - | 3
+24-11-2015 | Even met meneer Van Dam gesproken, maar helaas was Mohamed ziek, dus afspraak is verplaatst naar 25-11. Daarna praatten Matej en Mike verder over de komende cursus. Mike heeft later nog wat thuis gedaan en opgezocht over kali linux en SQL injection en Matej heeft de hele avond aan de PWS gewerkt en gezocht naar websites die hij Mike en Mohamed op kon sturen. | 3.5 | 5 | -
+- | In de tussentijd is Mike bezig om van alles te proberen met kali linux, die hij op een CD te leen heeft gekregen van Matej. | 2.5 | - | -
+25-11-2015 | Matej begon om half 11 te werken aan de PWS. Ondertussen hadden Mike en Mohamed nog les. Om kwart voor twaalf begon ook Mike te werken aan de PWS, Mohamed kwam later pas. Deze dag hebben we ook meneer Van Dam gesproken, en een mail ter uitnodiging geschreven aan leerlingen uit de vijfde en zesde leerjaren. | 4 | 6 | 3,5
+28-11-2015 | Na even op zoek te zijn gegaan naar USB’s en DVD’s, waren we in de oba samengekomen om de webapp exploitation en beveiliging nog een keer door te nemen. Ook hebben we het binnendringen en beveiligen van Windows XP nog eens behandeld. | 4 | 4 | 3,5
+29-11-2015 | Matej begon om half 9 met het opzetten van de webapplicatie die gebruikt gaat worden tijdens de cursus. Daarna werkte Matej verder aan de aangepaste linux systemen die tijdens de cursus gebruikt gaan worden. | - | 14 | -
+30-11-2015 | Matej heeft de linux iso’s op de usb flash drives en dvd’s gebrand, na de linux distributie nog verder te hebben aangepast. | - | 7 | -
+1-12-2015 | Na het lokaal met zijn allen te hebben voorbereid, gaven wij de cursus aan de leerlingen. | 3 | 3 | 3
+8-12-2015 | Mike werkt aan het verslag van de PWS, of de conceptversie er van. | 6 | - | -
+30-11-2015 | Mohamed heeft de enquete gemaakt en werd verbeterd en geholpen door Mike. Mike en Matej hebben vervolgens de ppt gemaakt voor de cursus. | 3 | 3 | 2
+10-12-2015 | Mike, Matej en Mohamed zitten aan  het verslag te werken. | 3.5 | 3,5 | 3,5
+11-12-2015 | Mike, Matej en Mohamed zitten aan  het verslag te werken. | 3 | 2 | 2
+19-01-2016 | Mike, Matej en Mohamed zitten aan het verslag te werken. | 2 | 2 | 2
 
-
-3
-
-
-07-10-2015
-Met elkaar gezeten waarbij Matej Mike wat leerde over hacken. Mohamed moest nog wat voor informatica doen.
-2,5
-2,5
-
-
-27-10-2015
-Met elkaar gezeten achter de computer waarbij Matej Mike weer wat meer leerde over hacken. Mohamed was ziek.
-1,5
-1,5
-
-
-03-11-2015
-Deze keer waren we er alle drie, en Matej leerde Mike en Mohamed weer wat over hacken.
-3
-3
-3
-04-11-2015
-In de tussentijd zoeken Mohamed en Mike op het internet naar informatie over hacken, bijvoorbeeld over het onderwerp “SQL-injection”.
-3
-
-
-3
-07-11-2015
-Met z’n drieën de halve dag bij elkaar gezeten in de bieb, waarbij er nagadacht werd over de PWS.
-6
-6
-6
-17-11-2015
-Gesprek met begeleider, Matej was ziek en Mohamed werd door de docent geroepen om iets voor Engels te doen.
-1
-
-
-
-
-
-
-Ondertussen hebben Mohamed en Mike thuis wat gedaan. Mohamed deed wat met CMD toen hij ziek was, en Mike zocht allerlei informatie op over hacken.
-1.5
-
-
-3
-24-11-2015
-Even met meneer Van Dam gesproken, maar helaas was Mohamed ziek, dus afspraak is verplaatst naar 25-11. Daarna praatten Matej en Mike verder over de komende cursus. Mike heeft later nog wat thuis gedaan en opgezocht over kali linux en SQL injection en Matej heeft de hele avond aan de PWS gewerkt en gezocht naar websites die hij Mike en Mohamed op kon sturen.
-3.5
-5
-
-
-
-
-In de tussentijd is Mike bezig om van alles te proberen met kali linux, die hij op een CD te leen heeft gekregen van Matej.
-2.5
-
-
-
-
-25-11-2015
-Matej begon om half 11 te werken aan de PWS. Ondertussen hadden Mike en Mohamed nog les. Om kwart voor twaalf begon ook Mike te werken aan de PWS, Mohamed kwam later pas. Deze dag hebben we ook meneer Van Dam gesproken, en een mail ter uitnodiging geschreven aan leerlingen uit de vijfde en zesde leerjaren.
-4
-6
-3,5
-28-11-2015
-Na even op zoek te zijn gegaan naar USB’s en DVD’s, waren we in de oba samengekomen om de webapp exploitation en beveiliging nog een keer door te nemen. Ook hebben we het binnendringen en beveiligen van Windows XP nog eens behandeld.
-4
-4
-3,5
-29-11-2015
-Matej begon om half 9 met het opzetten van de webapplicatie die gebruikt gaat worden tijdens de cursus. Daarna werkte Matej verder aan de aangepaste linux systemen die tijdens de cursus gebruikt gaan worden.
-
-
-14
-
-
-30-11-2015
-Matej heeft de linux iso’s op de usb flash drives en dvd’s gebrand, na de linux distributie nog verder te hebben aangepast.
-
-
-7
-
-
-1-12-2015
-Na het lokaal met zijn allen te hebben voorbereid, gaven wij de cursus aan de leerlingen.
-3
-3
-3
-8-12-2015
-Mike werkt aan het verslag van de PWS, of de conceptversie er van. 
-6
-
-
-
-
-30-11-2015
-Mohamed heeft de enquete gemaakt en werd verbeterd en geholpen door Mike. Mike en Matej hebben vervolgens de ppt gemaakt voor de cursus.
-3
-3
-2
-
-
-10-12-2015
-Mike, Matej en Mohamed zitten aan  het verslag te werken.
-3.5
-3,5
-3,5
-11-12-2015
-Mike, Matej en Mohamed zitten aan  het verslag te werken.
-3
-2
-2
-19-01-2015
-Mike, Matej en Mohamed zitten aan het verslag te werken.
-
-
-?
-?
-?
-
-
-
-
-
-
-
-
-
-
-Bronnen:
-Internet:
+## Bronnen:
+### Internet:
 Guldberg, K. (2014). So you want to be a Hacker. Retrieved October 1, 2015, from 
 https://www.linkedin.com/pulse/20140914093124-8752964-so-you-want-to-be-a-hacker?trk=prof-post&trk=prof-post
 
@@ -323,13 +199,13 @@ http://www.dvwa.co.uk/
 http://www.w3schools.com/sql/sql_injection.asp
 http://null-byte.wonderhowto.com/
 
-Boeken:
+### Boeken:
 Ebbens, S. & Ettekoven, S. (2013). Effectief leren: basisboek. Groningen: Noordhoff Uitgevers.
 Baloch, R. (2015). Ethical Hacking and Penetration Testing Guide. London: CRC Press.
 ''Computernetwerken - James Kurose''
 Kurose, J. F. & Ross, K. W. (2002). Computernetwerken: een ‘top-down’-benadering. Boston: Addison-Wesley.
 
-Digitaal materiaal:
+### Digitaal materiaal:
 Basis Kali Linux: http://kali.org/
 Damn Vulnerable Web Application: http://www.dvwa.co.uk/
 Apache: https://www.apache.org/
