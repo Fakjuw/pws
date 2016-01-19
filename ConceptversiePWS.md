@@ -1,7 +1,7 @@
 #Hacking: The art of exploitation
-Matej Curcic\n
-Mike Wong\n
-Mohamed Ettejani\n
+Matej Curcic<br />
+Mike Wong<br />
+Mohamed Ettejani<br />
 Begeleider: Eduard van Dam
 
 
