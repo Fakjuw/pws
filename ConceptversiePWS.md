@@ -17,26 +17,26 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 
 ##Inhoudsopgave
 
-*Hacking: The art of exploitation
-*Plan van aanpak
-*Inleiding
-*Theoretisch kader
-*Wat is hacken nou eigenlijk en wat is de definitie van een hacker?
-*De moraliteit van hackers:
-*Vóór de les
-*Wat gaat er gebeuren?
-*Doelen
-*Planning
-*Ná de les
-**Wat is er gebeurd?
-**(On)Bereikte doelen
-*Logboek
-*Bronnen:
-**Internet:
-**Boeken:
-*Digitaal materiaal:
-*Nawoord
-*Conclusie
+* Hacking: The art of exploitation
+* Plan van aanpak
+* Inleiding
+* Theoretisch kader
+* Wat is hacken nou eigenlijk en wat is de definitie van een hacker?
+* De moraliteit van hackers:
+* Vóór de les
+* Wat gaat er gebeuren?
+* Doelen
+* Planning
+* Ná de les
+*   Wat is er gebeurd?
+*   (On)Bereikte doelen
+* Logboek
+* Bronnen:
+*   Internet:
+*   Boeken:
+* Digitaal materiaal:
+* Nawoord
+* Conclusie
 
 
 
