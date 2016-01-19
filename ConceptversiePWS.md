@@ -28,12 +28,12 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 * Doelen
 * Planning
 * Ná de les
-..*   Wat is er gebeurd?
-..*   (On)Bereikte doelen
+  *   Wat is er gebeurd?
+  *   (On)Bereikte doelen
 * Logboek
 * Bronnen:
-..*   Internet:
-..*   Boeken:
+  *   Internet:
+  *   Boeken:
 * Digitaal materiaal:
 * Nawoord
 * Conclusie
