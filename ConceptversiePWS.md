@@ -106,14 +106,13 @@ Een hacker kan op verschillende manieren omschreven worden. Bijvoorbeeld:
 * Iemand die 
 Het eerste voorbeeld heeft verschillende groepen met verschillende hoeveelheden ervaring, die we voor nu even klasses gaan noemen. Hieronder een tabel met de namen en een omschrijving:
 
-Beginnende hackers
-(Script kiddies)
-“Script kiddies” worden door de meeste mensen gezien als amateurs of zelfs nephackers. Zij halen al hun codes van het internet af, en kopiëren en plakken ze regelrecht in de kladblokken en andere tekstverwerkers die ze gebruiken om hun codes in te voeren, waarna ze op het beste hopen en de code uitvoeren.
-Gemiddelde hackers
-Dit zijn de hackers die wel degelijk iets kunnen. Zij gebruiken meestal voorgeschreven tools, die ze dan zodanig aanpassen dat ze er merendeels hun doel mee kunnen bereiken. Zij kunnen meestal programmeren en weten hoe netwerken, besturingssystemen, radiogolven etc. werken en in elkaar zitten. Ze kennen hun theorie die ze dan toepassen.
-Geavanceerde hackers
-(Code monkey’s)
-Dit zijn de meest geavanceerde hackers. Deze klasse weet hoe computers, netwerken, programmeertalen etc. in elkaar zitten en hoe deze uit te buiten zijn. Zij schrijven meestal hun eigen tools, meestal voor prive gebruik.
+
+Niveau van hacker | Wat het inhoudt
+| Beginnende hackers
+(Script kiddies) | “Script kiddies” worden door de meeste mensen gezien als amateurs of zelfs nephackers. Zij halen al hun codes van het internet af, en kopiëren en plakken ze regelrecht in de kladblokken en andere tekstverwerkers die ze gebruiken om hun codes in te voeren, waarna ze op het beste hopen en de code uitvoeren. |
+| Gemiddelde hackers | Dit zijn de hackers die wel degelijk iets kunnen. Zij gebruiken meestal voorgeschreven tools, die ze dan zodanig aanpassen dat ze er merendeels hun doel mee kunnen bereiken. Zij kunnen meestal programmeren en weten hoe netwerken, besturingssystemen, radiogolven etc. werken en in elkaar zitten. Ze kennen hun theorie die ze dan toepassen. |
+| Geavanceerde hackers
+(Code monkey’s) | Dit zijn de meest geavanceerde hackers. Deze klasse weet hoe computers, netwerken, programmeertalen etc. in elkaar zitten en hoe deze uit te buiten zijn. Zij schrijven meestal hun eigen tools, meestal voor prive gebruik. |
 
 De moraliteit van hackers:
 De moraliteit van hackers is te verdelen in drie groepen (of hats):
