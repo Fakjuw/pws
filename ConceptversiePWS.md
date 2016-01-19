@@ -45,19 +45,19 @@ Netwerk scan. Dit krijgen hackers te zien als ze een netwerk uitpluizen op bevei
 Ons profielwerkstuk gaat over ‘The art of exploitation’, de kunst van het blootleggen. We willen weten wat de reactie is van mensen als ze een cursus hacken krijgen. De verkregen informatie zullen wij met elkaar vergelijken en uiteindelijk goede conclusies trekken.
 
 *Onderzoeksvraag:*<br />
-Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
+  Wat is de reactie van mensen wanneer zij uitgenodigd worden voor een cursus hacken en wat zijn hun reacties tíjdens de cursus hacken als ze besloten hebben mee te doen? 
 
 *Deelvragen:*<br />
-Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
+  Zullen er enthousiaste reacties komen van degenen die uitgenodigd zijn, of zullen wij met negatieve gevoelens bekeken worden?
 Wordt het onderwerp hacken door de maatschappij in een negatief daglicht gezien?
 Heeft de gemiddelde leerling enige ervaring met hacken?
 Hoe lang zal, als het er is, het enthousiasme en de interesse van de leerlingen aanhouden tijdens de les?
 
-##Hypotheses:
+##  Hypotheses:
 Wij denken dat de meeste mensen wel willen leren te hacken, voornamelijk omdat het interessant klínkt. Als wij ze echter zouden vragen wat zij denken dat hacken inhoudt, zullen zij waarschijnlijk meestal een verkeerd antwoord geven. Het standaard idee van een hacker is:
->	“In het bijzonder wordt het woord hacker gebruikt in volgende betekenissen:
+> “In het bijzonder wordt het woord hacker gebruikt in volgende betekenissen:
 Iemand die een programmeertaal of -omgeving zo goed kent dat hij/zij zonder zichtbare moeite een programma kan schrijven.
-Iemand die onconventionele maar adequate oplossingen bedenkt tegen lekken, fouten en problemen van andere aard met behulp van beschikbare middelen.
+Iemand die onconventionele maar adequate oplossingen bedenkt tegen lekken, fouten en problemen van andere aard met behulp van beschikbare middelen. 
 Iemand die tracht om via illegale wegen een computersysteem binnen te dringen teneinde een beveiligingsprobleem te kunnen aantonen en indien mogelijk te verhelpen.
 In deze laatste betekenis hebben hackers vaak een negatieve bijklank. Sommige hackers houden zich niet aan de	hackersethiek, hebben geen respect voor andere mensen en hacken met de intentie informatie bloot te leggen. Daarmee	beïnvloeden ze de publieke opinie om aanhangers te winnen voor bepaalde opvattingen of standpunten.”
 
@@ -66,22 +66,7 @@ De meeste leerlingen zullen waarschijnlijk geen of zeer weinig ervaring met hack
 Het enthousiasme en de interesse van de leerlingen zal waarschijnlijk afnemen tijdens de les, wanneer ze merken dat het erg lastig is om de trucs van en kennis over het hacken onder de knie te krijgen.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Inleiding
+##  Inleiding
 Later wil je een leuk beroep uitoefenen, en je weet in ieder geval dat je computer security wilt gaan studeren en dat je de uitdaging aan wil gaan in de wereld van hackers. Na je opleiding wil je je verder gaan specialiseren. Het hacken zegt je wel wat, maar wat is het nou precies? Welke wegen moet je afleggen om een hacker te worden? Allerlei vragen die opkomen, waarop je graag duidelijke antwoorden wilt krijgen.
 
 Hacker worden is wel leuk, maar niet iedereen is er voor geschikt. Als je dit wilt doen, moet je bepaalde dingen goed kunnen. Hacker zijn vereist veel geduld en motivatie, maar vooral veel interesse. Door ons profielwerkstuk krijg je een beeld over wat ‘cybersecurity’ inhoudt.
