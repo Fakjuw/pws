@@ -181,7 +181,7 @@ Datum | Activiteit | Mike W (54,5) | Matej (67.5) | Mohamed E (37,5)
 30-11-2015 | Mohamed heeft de enquete gemaakt en werd verbeterd en geholpen door Mike. Mike en Matej hebben vervolgens de ppt gemaakt voor de cursus. | 3 | 3 | 2
 10-12-2015 | Mike, Matej en Mohamed zitten aan  het verslag te werken. | 3.5 | 3,5 | 3,5
 11-12-2015 | Mike, Matej en Mohamed zitten aan  het verslag te werken. | 3 | 2 | 2
-19-01-2016 | Mike, Matej en Mohamed zitten aan het verslag te werken. | 2 | 2 | 2
+19-01-2016 | Mike, Matej en Mohamed zitten aan het verslag te werken. | 2,5 | 2,5 | 2,5
 
 ## Bronnen:
 ### Internet:
