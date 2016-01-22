@@ -42,7 +42,7 @@ Begeleider: Eduard van Dam
 
 
 
-## Plan van aanpak
+## *Plan van aanpak*
 Ons profielwerkstuk gaat over ‘The art of exploitation’, de kunst van het blootleggen. We willen weten wat de reactie is van mensen als ze een cursus hacken krijgen. De verkregen informatie zullen wij met elkaar vergelijken en uiteindelijk goede conclusies trekken.
 
 *Onderzoeksvraag:*<br />
